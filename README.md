@@ -9,10 +9,17 @@ Notes & Follow-ups: Add custom chronological notes to individual leads.
 Local Storage: Automatically saves all records directly in your browser's localStorage so data persists across refreshes.  
 
 File Structure:-
-minicrm.html: Contains the structural layout and form inputs.  
-style.css: Handles the styling, grid/flex layouts, and status badge colors.  
-script.js: Manages the application logic, DOM rendering, and local storage operations. 
+1. minicrm.html: Contains the structural layout and form inputs.  
+2. style.css: Handles the styling, grid/flex layouts, and status badge colors.  
+3. script.js: Manages the application logic, DOM rendering, and local storage operations. 
 
-Clone or download this repository to your local machine.
-Ensure index.html, style.css, and script.js are in the same directory.
-Open index.html in any modern web browser to run the application.
+📁 FUTURE_FS_02
+
+├── CRM.html       
+├── style.css        
+└── script.js    
+
+How to open my project?
+1. Clone or download this repository to your local machine.
+2. Ensure CRM.html, style.css, and script.js are in the same directory.
+3. Open index.html in any modern web browser to run the application.
